@@ -29,7 +29,7 @@ body {
 }
 
 h1 {
-  color: #eee;
+  color: #ffffff;
   text-align: center;
   margin-bottom: 36px;
 }
@@ -47,7 +47,7 @@ h1 {
   background-color: transparent;
   border: 2px solid #00bafd;
   border-radius: 30px;
-  color: #eee;
+  color: #000000;
   font-size: 16px;
   margin-right: 10px;
 }
@@ -78,7 +78,7 @@ h1 {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  background-color: #463c7b;
+  background-color: #151417;
   border-radius: 5px;
   margin: 10px 0;
   padding: 10px 12px;
@@ -178,7 +178,7 @@ input:checked + span {
 }
 
 .filter {
-  color: #eee;
+  color: #292929;
   padding: 5px 15px;
   border-radius: 100px;
   border: 2px solid #00bafd;
@@ -192,7 +192,7 @@ input:checked + span {
 
 .delete-all {
   display: flex;
-  color: #eee;
+  color: #292929;
   padding: 7px 15px;
   cursor: pointer;
   transition: all 0.2s ease;
