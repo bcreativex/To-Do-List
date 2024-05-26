@@ -12,7 +12,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: url("E:/wall.jpg") no-repeat;
+  background: url("img/wall.jpg") no-repeat;
   background-position: center;
   background-size: cover;
 }
